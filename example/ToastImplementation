@@ -1,0 +1,17 @@
+import React from 'react';
+import { useToast } from '../Toast';
+
+function Child() {
+  const toast = useToast();
+  
+  const showToast = () => toast.add('File too large! Make your file is less than 50MB.');
+
+  return (
+    <>
+      {showToast}
+    </>
+  );
+}
+
+export default Child;
+

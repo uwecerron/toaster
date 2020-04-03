@@ -1,0 +1,17 @@
+{
+  "name": "ctoast",
+  "version": "1.0.0",
+  "description": "Minimalistic Toast Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "keywords": [
+    "toast",
+    "reactjs",
+    "uwe",
+    "cerron"
+  ],
+  "author": "uwe cerron",
+  "license": "MIT"
+}

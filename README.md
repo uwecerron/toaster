@@ -1,3 +1,6 @@
+# Toaster
+A minimalistc Toaster Notification system on Reactjs
+
 # License
  
 The MIT License (MIT)
